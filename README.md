@@ -80,7 +80,7 @@
 
 
 
-有兴趣的可以加入星球
+有兴趣的可以加入星球，扫下面二维码
 
 ![image-20220809213939713](https://gitee.com/gylq/linkimage/raw/master/img1/image-20220809213939713.png)
 

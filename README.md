@@ -74,6 +74,7 @@ ChatGpt,微信机器人，自动回复，fofa查询，微信Bot，WeChatBot，�
 
 有兴趣的扫描下方二维码进群！
 
+![image](https://github.com/user-attachments/assets/2c7e8452-18c4-4641-89d8-4af6a755a862)
 
 
 ![图片](https://mmbiz.qpic.cn/mmbiz_jpg/pPVXCo8Wd8C3lDAY3HEPE8g7nFIntB1ZwyPmX71LeeO3ibM8mJ1rSlXlBRSAI3GqHs8rZln9Q6eup3MRPcwGszw/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1&wx_co=1)
